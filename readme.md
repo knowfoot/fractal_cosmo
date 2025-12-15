@@ -17,7 +17,7 @@ The primary purpose of this project is to provide a **fully reproducible numeric
 
 - The evolution of the effective fractal dimension of spacetime  
 - A self-consistent, scale-dependent modification of the Friedmann equation  
-- A unified phenomenological treatment of  
+- A unified  treatment of  
   - the Hubble constant tension,  
   - the JWST high-redshift galaxy “time evolution challenge”, and  
   - related large-scale cosmological effects  
@@ -30,11 +30,11 @@ All numerical results, tables, and figures presented in the paper can be reprodu
 
 This repository is intended for:
 
-- **Cosmologists and theoretical physicists** exploring phenomenological extensions of ΛCDM  
+- **Cosmologists and theoretical physicists** exploring  extensions of ΛCDM  
 - **Observers and data analysts** interested in alternative interpretations of H₀ tension or high-redshift observations  
 - **Referees and readers** who wish to independently verify the internal consistency and numerical results of the model  
 
-The framework is explicitly **bottom-up and phenomenological**.  
+The framework is explicitly **bottom-up and **.  
 It is not claimed to be a final fundamental theory, but rather a self-consistent parametric model designed to connect multiple observational anomalies within a single geometric interpretation.
 
 ---
