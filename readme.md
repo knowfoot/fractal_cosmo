@@ -34,8 +34,6 @@ This repository is intended for:
 - **Observers and data analysts** interested in alternative interpretations of H₀ tension or high-redshift observations  
 - **Referees and readers** who wish to independently verify the internal consistency and numerical results of the model  
 
-The framework is explicitly **bottom-up and **.  
-It is not claimed to be a final fundamental theory, but rather a self-consistent parametric model designed to connect multiple observational anomalies within a single geometric interpretation.
 
 ---
 
@@ -105,7 +103,7 @@ python FractalCosmo_v17_1.py
 
 The code will generate:
 
-- `output.txt`: Contains all numerical results, tables, and figures presented in the paper.
+- `output.txt`: Contains all numerical results, tables in the paper.
 
 ---
 
