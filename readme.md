@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Fractal-Cosmo v17.1** is an open-source Python implementation of a phenomenological cosmological framework based on **Fractal Holographic Duality (FHD)**.  
+**Fractal-Cosmo v17.1** is an open-source Python implementation of a  cosmological framework based on **Fractal Holographic Duality (FHD)**.  
 The code accompanies the paper:
 
 > *JWST Observational Anomalies and the Parametric Reconstruction of the Hubble Tension  
