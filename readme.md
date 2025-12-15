@@ -121,16 +121,7 @@ No hidden priors, external datasets, or proprietary software are required.
 
 ---
 
-## Citation
 
-If you use this code in academic work, please cite the accompanying paper:
-
-> *JWST Observational Anomalies and the Parametric Reconstruction of the Hubble Tension
-> Based on Fractal Holographic Duality*
-
-(Full journal reference to be added upon publication.)
-
----
 
 
 ## Contact
